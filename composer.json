@@ -1,0 +1,26 @@
+{
+    "name": "mirhamit/miri-search",
+    "description": "A Minimal Laravel Search Package",
+    "keywords": [
+        "laravel",
+        "MirHamit",
+        "search"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MirHamit\\MiriSearch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamid Musavi",
+            "email": "w1w@yahoo.com",
+            "homepage": "https://kratos.ir",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
