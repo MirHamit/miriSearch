@@ -122,7 +122,7 @@ trait MiriSearch
             $fields = Schema::getColumnListing($model->getTable());
 
             $ignoredColumns = [
-                $model->getKeyName(),
+                //                $model->getKeyName(),
                 //                $model->getUpdatedAtColumn(),
                 //                $model->getCreatedAtColumn(),
             ];
